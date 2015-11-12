@@ -1,0 +1,18 @@
+/*************************************************************************
+    > File Name: 19.cpp
+    > Author: lewin
+    > Mail: lilinhan1303@gmail.com
+    > Company:  Xiyou Linux Group
+    > Created Time: 2015年09月12日 星期六 14时37分06秒
+ ************************************************************************/
+
+#include<iostream>
+#include<string>
+#include<cstdlib>
+#include<cerrno>
+
+int main( int argc , char * argv[] )  {
+
+    return EXIT_SUCCESS;
+}
+
